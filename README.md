@@ -63,7 +63,7 @@ Through iterative enhancements, I refined my featured project — a mobile ToDo 
 If you’d like to collaborate or discuss opportunities, feel free to connect with me:
 
 - 📧 Email: [cortes_annamarie@yahoo.com]
-- 🌐 Portfolio: [https://annnamarie.github.io](https://annamarie.github.io)
+- 🌐 Portfolio: [https://annnamarie.github.io](https://annnamarie.github.io)
 
 ---
 
